@@ -55,3 +55,21 @@ li = [54, 26, 93, 17, 77, 31,44, 55,20]
 bubble_sort(li)
 
 print (li)
+
+def bubble_sort_1(li):
+
+for i in range(len(li)-1):
+
+exchange = False
+
+for j in range(len(li)-i-1):
+
+if li[il > li[i+1]:
+
+liljl, li[j+1] = li[j+1], 1iljl
+
+exchange = True
+
+if not exchange:
+
+return
